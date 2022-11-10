@@ -1,0 +1,40 @@
+h1{color: black;
+	font-size: all;
+	
+}
+table{
+	text-align: center;
+	text-rendering: 50px;
+	text-decoration-line: overline;
+	text-shadow: 0ch;
+}
+
+img{
+   width:500px ;
+}
+	
+
+body{background-color: rgb(255, 247, 130);
+	
+	
+}
+a{
+	color: black;
+}
+
+a:link, a:visited{
+	color: black;
+	background-color: white;
+	font-size: 15px;
+	font-family: comic sans ms;
+	text-decoration: underline;
+}
+a:hover, a:active{
+	color: lightgoldenrodyellow;
+	background-color: black;
+	font-size: 20px;
+	font-family: arial;
+	text-decoration: underline;
+}
+
+
