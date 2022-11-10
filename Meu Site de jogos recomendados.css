@@ -1,0 +1,46 @@
+	h1{color: black;
+		font-size: all;
+		
+	}
+	h2{color: black;
+		font-size: medium;
+		text-align: center;
+        text-rendering: 70px;
+		
+	}
+	p{color: black;
+		font-size: medium;
+		text-align: center;
+		text-rendering: 70px;
+	}
+	img{width:500px 
+		
+		
+		
+	}
+	body{background-image:url(https://docs.google.com/uc?id=14teVXpS90E_U06jeQGVMp27yfOl4VY_W);
+		background-size: cover;
+		margin: 30px;
+		
+
+		
+	}
+    a{color: white;
+
+    }
+
+	a:link, a:visited{
+		color: black;
+		background-color: white;
+		font-size: 15px;
+		font-family: comic sans ms;
+		text-decoration: underline;
+	}
+	a:hover, a:active{
+		color: lightgoldenrodyellow;
+		background-color: black;
+		font-size: 20px;
+		font-family: arial;
+		text-decoration: underline;
+	}
+	
